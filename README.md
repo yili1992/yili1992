@@ -1,7 +1,6 @@
 ### Hey 👋, I'm 易陆
 
-[![jikeFollowers](https://img.shields.io/badge/dynamic/json?color=%23FFE411&label=JikeFollowers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DjikeFollower%26queryKey%3Dd25cf3f3-f6e6-4427-b418-51ba06cf26e9)](https://m.okjike.com)
-[![jikeLikes](https://img.shields.io/badge/dynamic/json?color=%23FFE411&label=JikeLikes&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DjikeLiked%26queryKey%3Dd25cf3f3-f6e6-4427-b418-51ba06cf26e9)](https://m.okjike.com)
+![Followers](https://img.shields.io/github/followers/yili1992?label=Follw&style=social)
 [![HitCount](http://hits.dwyl.com/yili1992/yili1992.svg)](http://hits.dwyl.com/yili1992/yili1992)
 
 <br />
