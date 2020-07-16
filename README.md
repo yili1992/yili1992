@@ -1,8 +1,8 @@
-### Hey 👋🏽, I'm 易陆
+### Hey 👋, I'm 易陆
 
 [![jikeFollowers](https://img.shields.io/badge/dynamic/json?color=%23FFE411&label=JikeFollowers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DjikeFollower%26queryKey%3Dd25cf3f3-f6e6-4427-b418-51ba06cf26e9)](https://m.okjike.com)
 [![jikeLikes](https://img.shields.io/badge/dynamic/json?color=%23FFE411&label=JikeLikes&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DjikeLiked%26queryKey%3Dd25cf3f3-f6e6-4427-b418-51ba06cf26e9)](https://m.okjike.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yili1992.yili1992)
+[![HitCount](http://hits.dwyl.com/yili1992/yili1992.svg)](http://hits.dwyl.com/yili1992/yili1992)
 
 <br />
 <br />
@@ -13,23 +13,21 @@ Hi, I'm 易陆, a TE&RD  🚀 from China, currently, I'm a Software Test Enginee
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 👨‍💻 I’m currently working on improving my techskill;
 - 🌱 I’m currently learning kubernetes & DevOps; 
 - 🤔 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to answer;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: a65352341@gmail.com;
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react"></code>
+<code><img height="20" src="https://img.shields.io/badge/-MongoDB-HA248?style=flat-square&logo=mongodb"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"></code>
+<code><img height="20" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"></code>
 
 
 ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=yili1992&show_icons=true&hide_border=true)
