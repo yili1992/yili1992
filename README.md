@@ -24,14 +24,7 @@ use Python in k8s to developing & testing.
 
 **Languages and Tools:**  
 
-<img height="20" src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react">
-<img height="20" src="https://img.shields.io/badge/-MongoDB-HA248?style=flat-square&logo=mongodb">
-<img height="20" src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes">
-<img height="20" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python">
-<img height="20" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java">
-<img height="20" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff">
-<img height="20" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code">
-<img height="20" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
+<img height="20" src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react"><img height="20" src="https://img.shields.io/badge/-MongoDB-HA248?style=flat-square&logo=mongodb"><img height="20" src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes"><img height="20" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"><img height="20" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java"><img height="20" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"><img height="20" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"><img height="20" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
 
 
 
