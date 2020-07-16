@@ -4,26 +4,26 @@
 ![Followers](https://img.shields.io/github/followers/yili1992?label=Follw&style=social)
 [![HitCount](http://hits.dwyl.com/yili1992/yili1992.svg)](http://hits.dwyl.com/yili1992/yili1992)  
 
-☝️   To Switch Language
+☝️   切换语音
 <br />
 <br />
 
-Hi, I'm 易陆, a TE&RD  🚀 from China, currently, I'm a Software Test&Develop Engineer at️ [@NetEase](https://fuxi.163.com/), 
-use Python to developing & testing in Kubernetes.
- I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Game and Sport.
+Hi, I'm 易陆, 一名测试&开发工程师  🚀 来自中国, 目前, 我作为一名软件测试开发工程师 [@网易](https://fuxi.163.com/), 
+使用Python来进行测试开发.
+ 我是一名有创造力的问题解决爱好者, 对技术有着与日俱增的热爱. 除了编程之外我还喜欢游戏和动漫.
 
   <img align="right" alt="PNG" width="400" height="400" src="https://s1.ax1x.com/2020/07/16/UB6CjJ.png" />
 
-**Talking about Personal Stuffs:**
+**个人情况:**
 
-- 👨‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning kubernetes & DevOps; 
-- 🤔 Thinking about ways to increase efficiency
-- 💬 Ask me about anything, I am happy to answer;
-- ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: a65352341@gmail.com;
+- 👨‍💻 目前正在边工作边提高技术技能;
+- 🌱 正在学习kubernetes & DevOps; 
+- 🤔 一直在考虑如何提高效率
+- 💬 很乐意去解答疑问;
+- ⚡️ 一切皆有肯能;
+- 📫 联系方式: a65352341@gmail.com;
 
-**Languages and Tools:**  
+**语言和技能:**  
 
 <code><img height="20" src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react"></code>
 <code><img height="20" src="https://img.shields.io/badge/-MongoDB-HA248?style=flat-square&logo=mongodb"></code>
