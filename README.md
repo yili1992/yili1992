@@ -1,14 +1,14 @@
 ### Hey 👋, I'm 易陆
 
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-CN.md)
 ![Followers](https://img.shields.io/github/followers/yili1992?label=Follw&style=social)
 [![HitCount](http://hits.dwyl.com/yili1992/yili1992.svg)](http://hits.dwyl.com/yili1992/yili1992)
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-CN.md)
-
+☝️   To Switch Language
 <br />
 <br />
 
 Hi, I'm 易陆, a TE&RD  🚀 from China, currently, I'm a Software Test&Develop Engineer at️ [@NetEase](https://fuxi.163.com/), 
-use Python in k8s to developing & testing.
+use Python to developing & testing in Kubernetes.
  I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Game and Sport.
 
   <img align="right" alt="PNG" width="400" height="400" src="https://s1.ax1x.com/2020/07/16/UB6CjJ.png" />
