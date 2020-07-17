@@ -1,6 +1,6 @@
 ### Hey 👋, I'm 易陆
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-CN.md)
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/yili1992/yili1992/README-CN.md)
 ![Followers](https://img.shields.io/github/followers/yili1992?label=Follw&style=social)
 [![HitCount](http://hits.dwyl.com/yili1992/yili1992.svg)](http://hits.dwyl.com/yili1992/yili1992)  
 
