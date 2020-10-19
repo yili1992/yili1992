@@ -18,7 +18,7 @@ use Python to developing & testing.
 
 - 👨‍💻 I’m currently working on improving my techskill;
 - 🌱 I’m currently learning kubernetes & DevOps; 
-- 🤔 Thinking about ways to increase efficiency
+- 🤔 Focusing on increase efficiency & code quality
 - 💬 Ask me about anything, I am happy to answer;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: a65352341@gmail.com;
