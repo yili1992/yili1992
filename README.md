@@ -21,7 +21,7 @@ use Python to developing & testing.
 - 🤔 Focusing on increase efficiency & code quality
 - 💬 Ask me about anything, I am happy to answer;
 - ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: a65352341@gmail.com;
+- 📫 How to reach me: tczl199@163.com;
 
 **Languages and Tools:**  
 
