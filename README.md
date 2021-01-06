@@ -37,6 +37,7 @@ use Python to developing & testing.
 
 
 ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=yili1992&show_icons=true&hide_border=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yili1992&hide=html" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yili1992&hide=html,javascript,css" />  
+
 
 ⭐️ From [易陆](https://github.com/yili1992)
