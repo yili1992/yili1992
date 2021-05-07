@@ -2,7 +2,6 @@
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) 
 ![Followers](https://img.shields.io/github/followers/yili1992?label=Follw&style=social)
-[![HitCount](http://hits.dwyl.com/yili1992/yili1992.svg)](http://hits.dwyl.com/yili1992/yili1992)  
 
 ☝️   切换语音
 <br />
