@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm 易陆, a TE&RD  🚀 from China, currently, I'm a Software Test&Develop Engineer at️ [@NetEase](https://fuxi.163.com/), 
+Hi, I'm 易陆, a TE&RD  🚀 from China, currently, I'm a Lead of QA at️ TimeResearch, have ever worked in NetEase, Nokia.
 use Python to developing & testing.
  I'm a creative problem solving enthusiast, with a constantly growing love for techskill. Beside's programming, I enjoy Game and Anime.
 
@@ -15,8 +15,8 @@ use Python to developing & testing.
 
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning kubernetes & DevOps; 
+- 👨‍💻 I’m currently working on improving my techskill & QA skill & management skill;
+- 🌱 I’m currently learning Web3 & Crypto & Finance ; 
 - 🤔 Focusing on increase efficiency & code quality
 - 💬 Ask me about anything, I am happy to answer;
 - ⚡️ Fun-Fact: Anything is possible;
