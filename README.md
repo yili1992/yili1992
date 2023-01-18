@@ -8,7 +8,7 @@
 <br />
 
 Hi, I'm 易陆, a TE&RD  🚀 from China, currently, I'm a Lead of QA at️ TimeResearch, have ever worked in NetEase, Nokia.
-use Python to developing & testing.
+use Python to developing & testing.  
  I'm a creative problem solving enthusiast, with a constantly growing love for techskill. Beside's programming, I enjoy Game and Anime.
 
   <img align="right" alt="PNG" width="400" height="400" src="https://s1.ax1x.com/2020/07/16/UB6CjJ.png" />
